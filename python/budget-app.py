@@ -75,7 +75,7 @@ if __name__ == '__main__':
     print(food)
     # print(clothing)
 
-# samle
+# sample
 # *************Food*************
 # initial deposit        1000.00
 # groceries               -10.15
